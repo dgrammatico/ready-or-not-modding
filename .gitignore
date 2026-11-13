@@ -1,0 +1,11 @@
+# Built mod files
+*.pak
+*.utoc
+*.ucas
+*.sig
+# Unreal project output
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
