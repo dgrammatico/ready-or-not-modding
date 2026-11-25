@@ -2,6 +2,8 @@
 
 Ready or Not (Unreal Engine 5) mod sources, load orders and notes.
 
+Mostly Lua scripts for simple gameplay commands like spawning civilians.
+
 Built using tools from https://unofficial-modding-guide.com/
 
 | Path | What |
