@@ -2,6 +2,8 @@
 
 Ready or Not (Unreal Engine 5) mod sources, load orders and notes.
 
+Built using tools from https://unofficial-modding-guide.com/
+
 | Path | What |
 |---|---|
 | `mods/` | Mod source projects (no built paks) |
